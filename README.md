@@ -5,7 +5,7 @@
 
 <h1>Statistics Learning</h1>
 
-<p>My first paragraph.</p>
+<p>Start Learning</p>
 
 </body>
 </html>
